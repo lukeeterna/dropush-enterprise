@@ -3,6 +3,7 @@ attrs==25.3.0
 beautifulsoup4==4.13.4
 certifi==2025.4.26
 charset-normalizer==3.4.2
+coverage==7.8.2
 ebaysdk==2.2.0
 greenlet==3.2.3
 h11==0.16.0
@@ -21,6 +22,7 @@ pyee==13.0.0
 Pygments==2.19.1
 PySocks==1.7.1
 pytest==8.4.0
+pytest-cov==6.1.1
 python-dateutil==2.9.0.post0
 python-dotenv==1.1.0
 python-telegram-bot==20.7
