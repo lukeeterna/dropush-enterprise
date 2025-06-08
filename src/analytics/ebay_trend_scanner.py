@@ -1,5 +1,5 @@
 class TrendScanner:
-    \"\"\"Scans eBay trends.\"\"\"
+    """Scans eBay trends."""
     def __init__(self, client):
         self.client = client
 
